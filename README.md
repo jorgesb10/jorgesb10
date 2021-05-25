@@ -1,17 +1,8 @@
-- 👋 Hi, I’m @jorgesb10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-jorgesb10/jorgesb10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<html>
-      <head>
-      </head>
-      <body>
-  </body>
- </html>
+<div align="center">
+	<br>
+	
+		<img src="estilos.svg" width="800" height="400" alt="test">
+	</a>
+	<br>
+</div>
